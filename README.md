@@ -1,7 +1,7 @@
 # Analitica_de_negocios
 Curso de analítica de negocios 
 # !Hola Mundo¡ Este es mi primer repositorio
-Mi nombre es **Daniela Tovar** este es mi primer repositorio, soy estudiante de *contaduría pública*, les comparto el link de mi carrera 
+Mi nombre es **Daniela Tovar** este es mi primer repositorio, soy estudiante de *contaduría pública*, les comparto el link de mi programa en caso de que deseen estudiarla.
 
 -[Universidad UJTL](https://www.utadeo.edu.co/es/facultad/ciencias-economicas-y-administrativas/programa/bogota/contaduria-publica)
 
